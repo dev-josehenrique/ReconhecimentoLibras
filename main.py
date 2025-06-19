@@ -5,7 +5,7 @@ import cv2
 import mediapipe as mp
 from keras.models import load_model
 import numpy as np
-
+ 
 cap = cv2.VideoCapture(1)
 
 hands = mp.solutions.hands.Hands(max_num_hands=1)
