@@ -88,16 +88,26 @@ ReconhecimentoLibras/
 ├── keras_model.h5       # Modelo de reconhecimento treinado
 ├── requirements.txt     # Lista de dependências do projeto
 └── README.md            # Documentação do projeto
+
+> 📁 **Observação**: para exibir as imagens acima corretamente no `README.md`, criei uma pasta chamada `img` dentro do projeto e coloque os arquivos lá. Essa pasta **não é necessária para a execução do sistema**, serve apenas para fins de documentação e exibição no GitHub.
+
 ```
 
 ---
 
 ## 📺 Vídeo e Imagens
 
-Adicione aqui um vídeo ou imagens do sistema em funcionamento.
+Abaixo, demonstrações visuais do sistema em funcionamento:
 
-- [ ] Inserir link do vídeo demonstrativo
-- [ ] Inserir capturas de tela (.png/.gif)
+- ✅ Vídeo demonstrando o **treinamento do modelo** e a realização de **gestos em Libras**  
+  ![Treinamento do modelo](img/modelo_treinamento.mp4)
+
+- ✅ Imagem mostrando o sistema **testando o modelo treinado** e exibindo sua **precisão de predição**  
+  ![Teste do modelo](img/modelo_testando_resultado.png)
+
+- ✅ Imagem com o **alfabeto em Libras** usado como base para o treinamento  
+  ![Alfabeto em Libras](img/alfabeto_libras.png)
+
 
 ---
 
