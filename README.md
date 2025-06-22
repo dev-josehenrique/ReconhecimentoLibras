@@ -81,12 +81,14 @@ python main.py
 
 ## 📂 Estrutura do Projeto
 
+```
 ReconhecimentoLibras/
 │
 ├── main.py              # Código principal do sistema
 ├── keras_model.h5       # Modelo de reconhecimento treinado
 ├── requirements.txt     # Lista de dependências do projeto
 └── README.md            # Documentação do projeto
+```
 
 **OBSERVAÇÃO**: para exibir as imagens no `README.md`,  
 foi criada uma pasta chamada `img` dentro do projeto e os arquivos(imagens) foram colocados lá.  
