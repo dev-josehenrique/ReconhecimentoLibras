@@ -10,7 +10,7 @@ O objetivo principal é promover a **inclusão educacional de pessoas surdas**, 
 
 ## 📸 Demonstração
 
-![Demonstração do sistema](CAMINHO_PARA_SUA_IMAGEM.gif)
+![Demonstração do sistema](OIUFSC.gif)
 
 ---
 
@@ -94,8 +94,8 @@ ReconhecimentoLibras/
 ├── requirements.txt     # Lista de dependências do projeto
 └── README.md            # Documentação do projeto
 
-> 📁 **Observação** : para exibir as imagens acima corretamente no `README.md`, \\
- criei uma pasta chamada `img` dentro do projeto e coloque os arquivos lá. Essa pasta \\
+> 📁 **Observação** : para exibir as imagens acima corretamente no `README.md`, 
+ criei uma pasta chamada `img` dentro do projeto e coloque os arquivos lá. Essa pasta
  **não é necessária para a execução do sistema**, serve apenas para fins de documentação e exibição no GitHub.
 
 ```
