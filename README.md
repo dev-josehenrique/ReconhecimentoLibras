@@ -128,7 +128,7 @@ Portfólio : [devjosehenrique.com.br](https://devjosehenrique.com.br)
 Este projeto foi possível graças às seguintes bibliotecas, ferramentas e comunidades:
 
 - [Google Teachable Machine](https://teachablemachine.withgoogle.com/) – Treinamento do modelo de reconhecimento de gestos
-- [MediaPipe Hands API](https://google.github.io/mediapipe/solutions/hands.html) – Detecção de mãos em tempo real
+- [MediaPipe](https://pypi.org/project/mediapipe/) – Detecção de mãos em tempo real
 - [TensorFlow](https://www.tensorflow.org/) – Execução do modelo de machine learning (.h5)
 - [Keras](https://keras.io/) – API de alto nível usada para construir e treinar o modelo
 - [OpenCV-Python](https://pypi.org/project/opencv-python/) – Captura e exibição de vídeo, manipulação de imagem
