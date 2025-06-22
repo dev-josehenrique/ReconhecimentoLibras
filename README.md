@@ -1,7 +1,7 @@
 # 🤟 Reconhecimento de Gestos da Língua Brasileira de Sinais 
 para Inclusão Educacional
 
-Trabalho desenvolvido como **Projeto Final da disciplina de Sistemas Multimídias**, por **José Henrique Lopes Motta**.  
+Trabalho desenvolvido como **Projeto Final da disciplina de Sistemas Multimídias**, por mim **José Henrique Lopes Motta**.  
 Este sistema realiza o reconhecimento de gestos do alfabeto da Língua Brasileira de Sinais (LIBRAS) utilizando **OpenCV**, **MediaPipe** e um modelo de classificação treinado em **TensorFlow/Keras**.  
 O objetivo principal é promover a **inclusão educacional de pessoas surdas**, oferecendo uma aplicação interativa baseada em visão computacional.
 
@@ -96,7 +96,8 @@ ReconhecimentoLibras/
 
 > 📁 **Observação** : para exibir as imagens acima corretamente no `README.md`, 
  criei uma pasta chamada `img` dentro do projeto e coloque os arquivos lá. Essa pasta
- **não é necessária para a execução do sistema**, serve apenas para fins de documentação e exibição no GitHub.
+ **não é necessária para a execução do sistema**, serve apenas para fins de documentação 
+ e exibição no GitHub.
 
 ```
 
@@ -127,7 +128,7 @@ Este projeto está licenciado sob a [MIT License](LICENSE).
 ## 👨‍💻 Autor
 
 **José Henrique Lopes Motta**  
-GitHub: [@dev-josehenrique](https://github.com/dev-josehenrique)
+GitHub: [@dev-josehenrique](https://github.com/dev-josehenrique)<br>
 Portfólio : [devjosehenrique.com.br](https://devjosehenrique.com.br)
 
 ---
