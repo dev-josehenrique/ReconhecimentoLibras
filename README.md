@@ -1,5 +1,5 @@
-# 🤟 Reconhecimento de Gestos da Língua Brasileira de Sinais 
-para Inclusão Educacional
+# 🤟 Reconhecimento de Gestos da Língua Brasileira de Sinais para Inclusão Educacional
+
 
 Trabalho desenvolvido como **Projeto Final da disciplina de Sistemas Multimídias**, por mim **José Henrique Lopes Motta**.  
 Este sistema realiza o reconhecimento de gestos do alfabeto da Língua Brasileira de Sinais (LIBRAS) utilizando **OpenCV**, **MediaPipe** e um modelo de classificação treinado em **TensorFlow/Keras**.  
@@ -30,11 +30,6 @@ O objetivo principal é promover a **inclusão educacional de pessoas surdas**, 
 Certifique-se de estar utilizando **Python 3.8.0** ou compatível com TensorFlow 2.8.0.  
 Use um ambiente virtual para isolar as dependências.
 
-### Instalação das dependências:
-
-```bash
-pip install -r requirements.txt
-```
 
 ### Conteúdo do `requirements.txt`
 
@@ -86,7 +81,6 @@ python main.py
 
 ## 📂 Estrutura do Projeto
 
-```
 ReconhecimentoLibras/
 │
 ├── main.py              # Código principal do sistema
@@ -94,12 +88,11 @@ ReconhecimentoLibras/
 ├── requirements.txt     # Lista de dependências do projeto
 └── README.md            # Documentação do projeto
 
-> 📁 **Observação** : para exibir as imagens acima corretamente no `README.md`, 
- criei uma pasta chamada `img` dentro do projeto e coloque os arquivos lá. Essa pasta
- **não é necessária para a execução do sistema**, serve apenas para fins de documentação 
- e exibição no GitHub.
+**OBSERVAÇÃO**: para exibir as imagens no `README.md`,  
+foi criada uma pasta chamada `img` dentro do projeto e os arquivos(imagens) foram colocados lá.  
+Essa pasta **NÃO É NECESSÁRIA PARA A EXECUÇÃO DO SISTEMA**, servindo apenas para fins de documentação  
+e exibição no GitHub.
 
-```
 
 ---
 
@@ -119,11 +112,6 @@ Abaixo, demonstrações visuais do sistema em funcionamento:
 
 ---
 
-## 📄 Licença
-
-Este projeto está licenciado sob a [MIT License](LICENSE).
-
----
 
 ## 👨‍💻 Autor
 
