@@ -10,6 +10,8 @@ O objetivo principal é promover a **inclusão educacional de pessoas surdas**, 
 
 ## 📸 Demonstração
 
+- **"Soletrando"** O I U F S C 
+
 ![Demonstração do sistema](img/OIUFSC.gif)
 
 ---
