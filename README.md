@@ -114,24 +114,29 @@ Abaixo, demonstrações visuais do sistema em funcionamento:
 
 ---
 
-
 ## 👨‍💻 Autor
 
-**José Henrique Lopes Motta**  
+<p align="left">
+  <img src="https://devjosehenrique.com.br/images/eu.jpeg" alt="Foto do autor" width="80" height="80" style="border-radius: 50%; margin-right: 15px;" />
+  <strong>José Henrique Lopes Motta</strong>
+</p>
+
 GitHub: [@dev-josehenrique](https://github.com/dev-josehenrique)<br>
-Portfólio : [devjosehenrique.com.br](https://devjosehenrique.com.br)
+Portfólio: [devjosehenrique.com.br](https://devjosehenrique.com.br)
 
 ---
+
 
 ## 🙏 Agradecimentos
 
 Este projeto foi possível graças às seguintes bibliotecas, ferramentas e comunidades:
 
 - [Google Teachable Machine](https://teachablemachine.withgoogle.com/) – Treinamento do modelo de reconhecimento de gestos
-- [MediaPipe](https://pypi.org/project/mediapipe/) – Detecção de mãos em tempo real
+- [GitHub Teachable Machine](https://github.com/googlecreativelab/teachablemachine-community/) – Comunidade GitHub Teachable Machine
+- [MediaPipe](https://chuoling.github.io/mediapipe/) – Detecção de mãos em tempo real
 - [TensorFlow](https://www.tensorflow.org/) – Execução do modelo de machine learning (.h5)
 - [Keras](https://keras.io/) – API de alto nível usada para construir e treinar o modelo
-- [OpenCV-Python](https://pypi.org/project/opencv-python/) – Captura e exibição de vídeo, manipulação de imagem
+- [OpenCV-Python](https://opencv.org/) – Captura e exibição de vídeo, manipulação de imagem
 - [NumPy](https://numpy.org/) – Manipulação de arrays e normalização de dados
 - [Protobuf (Protocol Buffers)](https://developers.google.com/protocol-buffers) – Comunicação interna entre componentes do MediaPipe
 - [Python](https://www.python.org/) – Linguagem base utilizada no desenvolvimento
