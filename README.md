@@ -118,6 +118,7 @@ Abaixo, demonstrações visuais do sistema em funcionamento:
 
 <p align="left">
   <img src="https://devjosehenrique.com.br/images/eu.jpeg" alt="Foto do autor" width="80" height="80" style="border-radius: 50%; margin-right: 15px;" />
+  <br>
   <strong>José Henrique Lopes Motta</strong>
 </p>
 
